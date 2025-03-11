@@ -1,0 +1,169 @@
+{
+	"info": {
+		"_postman_id": "9657cfb3-20c8-4c08-8475-b2ad6a1fab45",
+		"name": "TP1-Postman-OMDB-Entenza",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "42978716"
+	},
+	"item": [
+		{
+			"name": "https://www.omdbapi.com/?apikey=56ef9c56&s=cars&plot=full",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://www.omdbapi.com/?apikey=56ef9c56&s=cars",
+					"protocol": "https",
+					"host": [
+						"www",
+						"omdbapi",
+						"com"
+					],
+					"path": [
+						""
+					],
+					"query": [
+						{
+							"key": "apikey",
+							"value": "56ef9c56"
+						},
+						{
+							"key": "s",
+							"value": "cars"
+						},
+						{
+							"key": "plot",
+							"value": "full",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://www.omdbapi.com/?apikey=56ef9c56&t=Hunger",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://www.omdbapi.com/?apikey=56ef9c56&s=Hunger&page=41",
+					"protocol": "https",
+					"host": [
+						"www",
+						"omdbapi",
+						"com"
+					],
+					"path": [
+						""
+					],
+					"query": [
+						{
+							"key": "apikey",
+							"value": "56ef9c56"
+						},
+						{
+							"key": "s",
+							"value": "Hunger"
+						},
+						{
+							"key": "page",
+							"value": "41"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://www.omdbapi.com/?apikey=56ef9c56&t=Monsters,%20inc",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://www.omdbapi.com/?apikey=56ef9c56&t=Monsters,%20inc",
+					"protocol": "https",
+					"host": [
+						"www",
+						"omdbapi",
+						"com"
+					],
+					"path": [
+						""
+					],
+					"query": [
+						{
+							"key": "apikey",
+							"value": "56ef9c56"
+						},
+						{
+							"key": "t",
+							"value": "Monsters,%20inc"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://www.omdbapi.com/?apikey=56ef9c56&t=Rocky%20IV",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://www.omdbapi.com/?apikey=56ef9c56&t=Rocky%20IV",
+					"protocol": "https",
+					"host": [
+						"www",
+						"omdbapi",
+						"com"
+					],
+					"path": [
+						""
+					],
+					"query": [
+						{
+							"key": "apikey",
+							"value": "56ef9c56"
+						},
+						{
+							"key": "t",
+							"value": "Rocky%20IV"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://www.omdbapi.com/?apikey=56ef9c56&i=tt0067992",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://www.omdbapi.com/?apikey=56ef9c56&i=tt0067992",
+					"protocol": "https",
+					"host": [
+						"www",
+						"omdbapi",
+						"com"
+					],
+					"path": [
+						""
+					],
+					"query": [
+						{
+							"key": "apikey",
+							"value": "56ef9c56"
+						},
+						{
+							"key": "i",
+							"value": "tt0067992"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
