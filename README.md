@@ -18,15 +18,18 @@ Al buscar el último resultado de Hunger, mediante el parámetro de page y, sien
      4. Votos de Monsters, Inc en IMDB: 1,017,055
         Actores: Billy Crystal, John Goodman, Mary Gibbs
         Link al poster: https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_SX300.jpg
-
-     5. Género: Drama, Sport
+        Poster:
+       ![](https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_SX300.jpg){width=300 height=500}
+     6. Género: Drama, Sport
         Director: Sylvester Stallone
         Minutos de duración: 91 min
 
-     6. Título: Willy Wonka & the Chocolate Factory
+     7. Título: Willy Wonka & the Chocolate Factory
         Año: 1971
 
-     7. ✔️
+     8. ✔️
+    
+        
 
    - ### Poké Api:
 
