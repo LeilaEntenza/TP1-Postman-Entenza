@@ -27,9 +27,9 @@ Al buscar el último resultado de Hunger, mediante el parámetro de page y, sien
        ID: 25
        Habilidades: static y lightning rod
        Altura: 4
-    2. 21
-    3. Mewtwo
-    4. Blaze y solar power
-    5. Altura: 7
-      Peso: 69
-    6. ✔️
+     2. 21
+     3. Mewtwo
+     4. Blaze y solar power
+     5. Altura: 7
+       Peso: 69
+     6. ✔️
