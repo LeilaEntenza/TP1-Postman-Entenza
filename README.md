@@ -52,5 +52,6 @@ Al buscar el último resultado de Hunger, mediante el parámetro de page y, sien
        Peso: 69
 
      6. ✔️
-    
-     <img src="https://i.pinimg.com/736x/7d/78/83/7d788395cb89c4bdd898885f1ab44c18.jpg">
+     <p align="center">
+     <img src="https://i.pinimg.com/736x/7d/78/83/7d788395cb89c4bdd898885f1ab44c18.jpg" >
+     </p>
