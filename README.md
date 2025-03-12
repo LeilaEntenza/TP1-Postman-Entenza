@@ -53,5 +53,5 @@ Al buscar el último resultado de Hunger, mediante el parámetro de page y, sien
 
      6. ✔️
      <p align="center">
-     <img src="https://i.pinimg.com/736x/7d/78/83/7d788395cb89c4bdd898885f1ab44c18.jpg" >
+     <img src="https://i.pinimg.com/736x/7d/78/83/7d788395cb89c4bdd898885f1ab44c18.jpg" width="30%">
      </p>
