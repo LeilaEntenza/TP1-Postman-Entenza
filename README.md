@@ -19,7 +19,7 @@ Al buscar el último resultado de Hunger, mediante el parámetro de page y, sien
         Actores: Billy Crystal, John Goodman, Mary Gibbs
         Link al poster: https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_SX300.jpg
         Poster:
-       ![](https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_SX300.jpg){width=300 height=500}
+       ![](https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_SX300.jpg){width=300px height=500px}
      6. Género: Drama, Sport
         Director: Sylvester Stallone
         Minutos de duración: 91 min
