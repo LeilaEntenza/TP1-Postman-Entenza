@@ -22,14 +22,14 @@ Al buscar el último resultado de Hunger, mediante el parámetro de page y, sien
         Año: 1971
      7. ✔️
    - ### Poké Api:
-    1. La información completa sobre Pikachu se encuentra en la consulta realizada, sin embargo dentro de los datos más relevantes se encuentran:
+     1. La información completa sobre Pikachu se encuentra en la consulta realizada, sin embargo dentro de los datos más relevantes se encuentran:
        Nombre: Pikachu
        ID: 25
        Habilidades: static y lightning rod
        Altura: 4
-   2. 21
-   3. Mewtwo
-   4. Blaze y solar power
-   5. Altura: 7
+    2. 21
+    3. Mewtwo
+    4. Blaze y solar power
+    5. Altura: 7
       Peso: 69
-   6. ✔️
+    6. ✔️
